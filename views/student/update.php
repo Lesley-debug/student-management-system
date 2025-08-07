@@ -1,4 +1,6 @@
 <?php
+
+include '../../core/admin_project.php';
 // Enable error reporting for debugging (optional)
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
